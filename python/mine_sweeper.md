@@ -1,3 +1,8 @@
+# 扫雷
+
+## 项目描述
+扫雷是一个命令行游戏。
+
 ```
 Marked mines: 1 from 7
   A   B   C   D   E   F   G   H
@@ -22,3 +27,5 @@ Marked mines: 1 from 7
 Enter column, row and an action( c r a ):
 Actions: o => open, f => flag, ? => unknown
 ```
+参考：
+扫雷游戏百科：https://baike.baidu.com/item/%E6%89%AB%E9%9B%B7/12543
